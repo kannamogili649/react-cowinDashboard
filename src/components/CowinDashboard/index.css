@@ -1,0 +1,28 @@
+.container {
+  min-height: 100vh;
+  background-color: #161625;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+.header {
+  display: flex;
+  align-items: center;
+}
+.logo {
+  width: 25px;
+  height: 25px;
+}
+.heading {
+  font-size: 16px;
+  color: white;
+  color: #2cc6c6;
+  margin-left: 5px;
+}
+.vaccine-by-age-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #1c1c2b;
+  color: white;
+  margin-top: 20px;
+}
